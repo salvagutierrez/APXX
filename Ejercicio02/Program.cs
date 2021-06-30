@@ -11,6 +11,7 @@ namespace Ejercicio02
         static void Main(string[] args)
         {
             // Iniciando el Ejercicio 02
+            // Finalizado Ejercicio 02
         }
     }
 }
